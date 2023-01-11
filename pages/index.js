@@ -62,14 +62,14 @@ export default function Home() {
             || AI/ML Engineer || Cosmology enthusiast || Winner Edo Innovates Tech conference hackathon 1.0 ||
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
-            <a href="https://twitter.com/stephentobiloba" target="_blank" rel="noreferer">
+            <a href="https://twitter.com/stephentobiloba" target="_blank" rel="noopener">
              <AiFillTwitterCircle />
               </a>
 
-              <a href="https://www.linkedin.com/in/oluwatobiloba-onawale-ab679a63/" target="_blank" rel="noreferer">
+              <a href="https://www.linkedin.com/in/oluwatobiloba-onawale-ab679a63/" target="_blank" rel="noopener">
               <AiFillLinkedin />
               </a>
-              <a href="https://github.com/aristokratos" target="_blank" rel="noreferer">
+              <a href="https://github.com/aristokratos" target="_blank" rel="noopener">
                <AiFillGithub />
               </a>
             </div>
